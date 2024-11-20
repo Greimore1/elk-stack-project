@@ -32,10 +32,3 @@ docker compose up -d
 ## Troubleshooting
 - Check container logs: `docker compose logs <service-name>`
 - Restart services: `docker compose restart`
-
-## Security Notes
-- Default security is disabled for development
-- Not recommended for production without additional security configurations
-
-## License
-[Choose an appropriate license, e.g., MIT]
