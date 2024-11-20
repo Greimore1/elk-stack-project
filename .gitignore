@@ -1,0 +1,15 @@
+# Docker volumes
+elasticsearch-data/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
